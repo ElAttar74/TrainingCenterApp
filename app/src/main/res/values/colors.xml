@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#0291D1</color>
+    <color name="appBar">#0291D1</color>
+    <color name="textColor">#E7F2F8</color>
+    <color name="borderColor">#0291D1</color>
+    <color name="underlinecolor">#00000000</color>
+    <color name="txtColor">#012535</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

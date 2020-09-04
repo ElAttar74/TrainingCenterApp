@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922283730069",
+    "firebase_url": "https://trainingcenter-372f2.firebaseio.com",
+    "project_id": "trainingcenter-372f2",
+    "storage_bucket": "trainingcenter-372f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922283730069:android:6339c1016a295a93f0a79c",
+        "android_client_info": {
+          "package_name": "com.example.trainningcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922283730069-9dbpirq21td4sj5ktugff91fnn8ne2a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trainningcenter",
+            "certificate_hash": "879e8b98a7965c2a336c44a21221938e67f49611"
+          }
+        },
+        {
+          "client_id": "922283730069-9d2snmtfae8e8t4l64mn958g963a0vri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDivxwHdUCRwdtxZx9WwuAXPlW_JooU2pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922283730069-9d2snmtfae8e8t4l64mn958g963a0vri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

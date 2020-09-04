@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainUserActivity">
+    <item android:id="@+id/item_logout"
+        android:title="Log out"
+        app:showAsAction="never"/>
+    <item android:id="@+id/item_QrCode"
+        android:title="QR Code Attendance"
+        app:showAsAction="never"/>
+    <item android:id="@+id/item_read"
+    android:title="Read Qr Code"
+    app:showAsAction="never"/>
+
+    <item android:id="@+id/item_reservation"
+        android:title="my reservation"
+        app:showAsAction="never"/>
+
+</menu>
